@@ -1,2 +1,2 @@
 # SkyveClient
-A Javascript client to interact with Skyve services
+A Javascript client to interact with [Skyve](https://skyve.org) services
